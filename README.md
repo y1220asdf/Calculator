@@ -1,4 +1,4 @@
-# 夏特稀計算機 Tershi Calculator
+# askndasjfdaslkjd計算機 Tershi Calculator
 
 這是一款使用Java寫的Android APP，可以使用許多功能，目前也正在維護中，也有在定時更新。
 
